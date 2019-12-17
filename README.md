@@ -1,5 +1,11 @@
 # image-preprocessing-techniques
-Image pre-processing techniques from first principles.
+Image pre-processing techniques from first principles. This includes:
+- Affine deformations
+- Sampling techniques
+- Contrast and intensity functions
+- Filters
+- Frequency domain techniques
+
 
 ## Report
  ![](report-png/report-04.png)
